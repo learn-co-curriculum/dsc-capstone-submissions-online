@@ -2,15 +2,15 @@
 
 ## Introduction
 
-In this lesson, we review the requirements, submission, and review process for the Phase 2 Project.
+In this lesson, we review the requirements, submission, and review process for the Capstone Project.
 
 ## Objectives
 
 You will be able to:
 
 * Create project deliverables that meet Flatiron School requirements
-* Submit your project deliverables in Canvas
-* Prepare for your project review
+* Submit your Capstone project deliverables in Canvas
+* Prepare for your Capstone review
 
 ## Schedule Your Review ASAP
 
@@ -61,7 +61,7 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 
 You will need to submit all three PDF files as a single submission:
 
-1. Click "Submit Assignment" at the top of this page.
+1. Click "Submit Assignment" at the top of the "Capstone Project" assignment in the "Milestones" topic.
 2. In the "File Upload" box, click "Choose File" button to upload a single file.
 3. Click the "Add Another File" link to upload an additional file.
 4. Repeat Step 3 to upload one more file. After this is done, all three files should be uploaded.
@@ -74,7 +74,7 @@ You will need to submit all three PDF files as a single submission:
 After you've submitted the PDF files for the project assignment, you will upload a recording of your presentation as a media comment on your submission:
 
 1. Record your live presentation to a video file on your computer. We recommend using Zoom to record your live presentation to a local video file ([instructions here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)). Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
-2. Click "Submission Details" on the top right of this page.
+2. Click "Submission Details" on the top right of the "Capstone Project" assignment in the "Milestones" topic.
 3. Click "Media Comment" beneath the "Add a Comment" box on the right of the page.
 4. Click "Upload Media" and "Select Video File" to upload your file.
 5. The thumbnail for your video will appear as a blue rectangle while Zoom processes your file - return to this page later to confirm that your recording uploaded successfully.
@@ -83,7 +83,7 @@ After you've submitted the PDF files for the project assignment, you will upload
 
 ### URL Submission in Canvas
 
-There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Phase X Project - GitHub Repository URL."
+There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Capstone Project - GitHub Repository URL."
 
 ## Prepare For Project Review
 
@@ -121,7 +121,7 @@ What won't happen:
 
 ## Grading
 
-Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must properly submit your project and score "Accomplished" or "Exemplary" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission sometime after your review.
+Your teacher will use the rubric at the bottom of the Capstone project assignment to grade your project. In order to pass, you must properly submit your project and score "Accomplished" or "Exemplary" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to graduate with your cohort. Your teacher will grade your submission sometime after your review.
 
 ## Conclusion
 
