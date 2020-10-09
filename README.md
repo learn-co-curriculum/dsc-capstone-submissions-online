@@ -1,4 +1,4 @@
-# Project Submission & Review (Online)
+# Capstone Submission & Review (Online)
 
 ## Introduction
 
