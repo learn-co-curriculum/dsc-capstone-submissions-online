@@ -57,6 +57,8 @@ To submit your project in Canvas, you will create and upload PDF versions of thr
 3. Save the page as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions](https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome))
 4. Give it a short descriptive file name (e.g. `notebook.pdf`).
 
+If you have difficulty creating a PDF version of your notebook, you can use [this tool](https://htmtopdf.herokuapp.com/ipynbviewer/) instead. Set the ‘Results Format’ to “HTML + PDF”. Then click ‘View and Convert’. Once it’s done, you should see links to .html and .pdf versions above the ‘View and Convert’ button.
+
 ### PDF Submission in Canvas
 
 You will need to submit all three PDF files as a single submission:
